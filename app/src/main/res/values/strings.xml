@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">wifiduino</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="ip">IP</string>
+    <string name="port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="tcp_on">TCP ON</string>
+    <string name="tcp_off">TCP OFF</string>
+    <string name="udp_on">UDP ON</string>
+    <string name="udp_off">UDP OFF</string>
+    <string name="testo_ricevuto">Testo ricevuto</string>
+    <string name="send">Send</string>
+</resources>
